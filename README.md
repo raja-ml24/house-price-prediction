@@ -13,4 +13,7 @@ A Machine Learning project that predicts house prices based on features like are
 - `house_price_model.pkl`: Trained model
 - `House_Price_app.py`: GUI code
 - `data.csv`: Dataset
+## 🔗 Live App
+
+👉 [Click here to try the Sentiment Analysis Web App](http://192.168.66.172:8501)
 
